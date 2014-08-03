@@ -11,7 +11,7 @@ import java.util.Enumeration;
 
 public class SerialClass implements SerialPortEventListener{
 
-    //teste
+    //teste 2
     public SerialPort serialPort;
     
     private static final String PORT_NAMES[] = {
